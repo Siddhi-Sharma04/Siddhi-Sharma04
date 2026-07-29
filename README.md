@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Siddhi 👋
 
-<!--
-**Siddhi-Sharma04/Siddhi-Sharma04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 B.Tech CSE Student
+- 🌱 Learning Data Structures & Algorithms
+- 🚀 Interested in AI/ML and Data Science
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
+- GitHub: https://github.com/Siddhi-Sharma04
+- LeetCode: https://leetcode.com/u/Siddhi-Sharma04/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Siddhi-Sharma04)
+
+## 🛠️ Languages
+- Java
+- C++
